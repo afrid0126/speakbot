@@ -1,0 +1,14 @@
+pyttsx4==2.90
+SpeechRecognition==3.10.0
+pyaudio==0.2.14
+wikipedia==1.4.0
+wolframalpha==5.0.0
+requests==2.31.0
+pyjokes==0.6.0
+feedparser==6.0.10
+beautifulsoup4==4.12.2
+twilio==9.0.0
+ecapture==2.0.2
+clint==0.5.1
+winshell==0.6
+pywin32==306
